@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.100.0
+anthropic==0.25.0
+agno==0.4.0
+sqlalchemy==2.0.23
+dramatiq==1.14.2
+dramatiq-rabbitmq==0.25.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+httpx==0.25.2
+pytz==2023.3
+apscheduler==3.10.4
